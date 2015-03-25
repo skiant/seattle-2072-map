@@ -1542,13 +1542,13 @@
 						<value>Casino</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Juneau Street & 28th Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Juneau Street & 28th Avenue South Casino The Seward Club is one of three legal casinos in the city. Even those who don´t gamble might enjoy a visit to this beautiful ´90s baroque-style building where they could rub elbows with some of the city´s notables amid the Seward´s luxurious Interior.]]></description>
+				<description><![CDATA[South Casino The Seward Club is one of three legal casinos in the city. Even those who don´t gamble might enjoy a visit to this beautiful ´90s baroque-style building where they could rub elbows with some of the city´s notables amid the Seward´s luxurious Interior.]]></description>
 				<Point>
 					<coordinates>-122.29662999999998,47.54972,0.0</coordinates>
 				</Point>
@@ -1561,13 +1561,13 @@
 						<value>Night Club</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>7th Avenue & Columbia Street</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[7th Avenue & Columbia Street Night Club Not a place for the mild-mannered or the meek of heart, Sybrespace´s neon lights and pounding rhythms put it at the leading edge of downtown nightlife.]]></description>
+				<description><![CDATA[Night Club Not a place for the mild-mannered or the meek of heart, Sybrespace´s neon lights and pounding rhythms put it at the leading edge of downtown nightlife.]]></description>
 				<Point>
 					<coordinates>-122.32796,47.60599,0.0</coordinates>
 				</Point>
@@ -1580,13 +1580,13 @@
 						<value>Night Club</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Maynard Avenue & South Lane Street</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Maynard Avenue & South Lane Street Small Night Club Bias against Strangers (heavy) This is little more than a sleazy girly-bar where local leechers come to drool over the women and get drunk on cheap soy-beer.]]></description>
+				<description><![CDATA[Small Night Club Bias against Strangers (heavy) This is little more than a sleazy girly-bar where local leechers come to drool over the women and get drunk on cheap soy-beer.]]></description>
 				<Point>
 					<coordinates>-122.32493999999998,47.59643,0.0</coordinates>
 				</Point>
@@ -1599,13 +1599,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>410 West Thomas Street</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[410 West Thomas Street Restaurant and Bar For more than one hundred years, this free-standing metal tower has been the symbol of the Seattle Metroplex. It is 185 meters tall, and has an observation deck, two restaurants, and three bars. A ride in gilded elevators up to the observation decks costs five nuyen. Of the two restaurants, the best and most well known is the Eye of the Needle. The circular restaurant and bar is located just beneath the observation deck, and is reached by several elevators from the ground or observation deck. The restaurant slowly rotates, and the view is breathtaking. By the time the meal is over, diners will have enjoyed a birds-eyeview of the whole city.]]></description>
+				<description><![CDATA[Restaurant and Bar For more than one hundred years, this free-standing metal tower has been the symbol of the Seattle Metroplex. It is 185 meters tall, and has an observation deck, two restaurants, and three bars. A ride in gilded elevators up to the observation decks costs five nuyen. Of the two restaurants, the best and most well known is the Eye of the Needle. The circular restaurant and bar is located just beneath the observation deck, and is reached by several elevators from the ground or observation deck. The restaurant slowly rotates, and the view is breathtaking. By the time the meal is over, diners will have enjoyed a birds-eyeview of the whole city.]]></description>
 				<Point>
 					<coordinates>-122.34927400000001,47.62043800000001,0.0</coordinates>
 				</Point>
@@ -1618,13 +1618,13 @@
 						<value>Hotel</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>100 - 112th Avenue NE</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[100 - 112th Avenue NE Luxury Hotel (20 floors) The Bellevue Hilton is the best bet on Bellevue´s Hotel Row. It has three restaurants and is located near a local health club.]]></description>
+				<description><![CDATA[Luxury Hotel (20 floors) The Bellevue Hilton is the best bet on Bellevue´s Hotel Row. It has three restaurants and is located near a local health club.]]></description>
 				<Point>
 					<coordinates>-122.19060000000002,47.611,0.0</coordinates>
 				</Point>
@@ -1637,13 +1637,13 @@
 						<value>Hotel</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>625 - 116th Avenue NE</value>
 					</Data>
 					<Data name='Bias'>
-						<value></value>
+						<value>Bias against Metahumans (subtle)</value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[625 - 116th Avenue NE Luxury Hotel (12 floors) Bias against Metahumans (subtle) The hotel offers little in the way of scenic views, but its rooms, restaurants and service still make it one of the best in the business.]]></description>
+				<description><![CDATA[ Luxury Hotel (12 floors) The hotel offers little in the way of scenic views, but its rooms, restaurants and service still make it one of the best in the business.]]></description>
 				<Point>
 					<coordinates>-122.18592000000001,47.61589000000001,0.0</coordinates>
 				</Point>
@@ -1656,13 +1656,13 @@
 						<value>Hotel</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>381 - West Lake Sammamish Parkway SE</value>
 					</Data>
 					<Data name='Bias'>
-						<value></value>
+						<value>Bias against everybody</value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[381 - West Lake Sammamish Parkway SE Cheap Hotel (8 `floors`) Bias against everybody This hotel offers a panoramic view of an abandoned warehouse. The rooms are infested with all manner of animal and human parasites. That´s the sleep part. The eat part you´ll have to find out for yourself.]]></description>
+				<description><![CDATA[ Cheap Hotel (8 `floors`) This hotel offers a panoramic view of an abandoned warehouse. The rooms are infested with all manner of animal and human parasites. That´s the sleep part. The eat part you´ll have to find out for yourself.]]></description>
 				<Point>
 					<coordinates>-122.11200000000001,47.60573,0.0</coordinates>
 				</Point>
@@ -1675,13 +1675,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Main Street & 108th Avenue NE</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Main Street & 108th Avenue NE Mid-Size Restaurant (Seafood) This excellent first-class seafood restaurant is in the heart of the district´s business center.]]></description>
+				<description><![CDATA[Mid-Size Restaurant (Seafood) This excellent first-class seafood restaurant is in the heart of the district´s business center.]]></description>
 				<Point>
 					<coordinates>-122.19580000000002,47.6098,0.0</coordinates>
 				</Point>
@@ -1694,13 +1694,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>100th Avenue NE & 116th Place NE</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[100th Avenue NE & 116th Place NE Small Restaurant and Bar (Confederate) In spite of the rather shabby exterior, the Confederate cuisine served at this family-style restaurant is first-rate.]]></description>
+				<description><![CDATA[Small Restaurant and Bar (Confederate) In spite of the rather shabby exterior, the Confederate cuisine served at this family-style restaurant is first-rate.]]></description>
 				<Point>
 					<coordinates>-122.20760000000001,47.70440000000001,0.0</coordinates>
 				</Point>
@@ -1713,13 +1713,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>NE 8th Street & 108th Avenue NE</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[NE 8th Street & 108th Avenue NE Large Restaurant and Bar (Indian) This is one of the best Indian restaurants in the city. It has a cozy interior, a large menu and modest prices. The lunch-hour buffet is one of the best bargains around. Hoshiar Pahal is a skilled master of the Hindu-Shaman tradition who sometimes entertains his guests with demonstrations of his skill.]]></description>
+				<description><![CDATA[Large Restaurant and Bar (Indian) This is one of the best Indian restaurants in the city. It has a cozy interior, a large menu and modest prices. The lunch-hour buffet is one of the best bargains around. Hoshiar Pahal is a skilled master of the Hindu-Shaman tradition who sometimes entertains his guests with demonstrations of his skill.]]></description>
 				<Point>
 					<coordinates>-122.19633,47.61742,0.0</coordinates>
 				</Point>
@@ -1732,13 +1732,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Market Street & 14th Avenue NW</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Market Street & 14th Avenue NW Small Restaurant and Bar (Soy) The interior of this modest eatery is spacious, dark, and private. The soy is great, as is the beer.]]></description>
+				<description><![CDATA[Small Restaurant and Bar (Soy) The interior of this modest eatery is spacious, dark, and private. The soy is great, as is the beer.]]></description>
 				<Point>
 					<coordinates>-122.20983499999998,47.68642,0.0</coordinates>
 				</Point>
@@ -1751,13 +1751,13 @@
 						<value>Bar</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>NE 40th Street & 148th Avenue NE</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[NE 40th Street & 148th Avenue NE Bar The Friday Night Fights are a must as are the Tuesday night Sloppy Soy Wrestling Matches.]]></description>
+				<description><![CDATA[Bar The Friday Night Fights are a must as are the Tuesday night Sloppy Soy Wrestling Matches.]]></description>
 				<Point>
 					<coordinates>-122.1428,47.64591,0.0</coordinates>
 				</Point>
@@ -1770,13 +1770,13 @@
 						<value>Casino</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>830 - SE Shoreland Drive</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[830 - SE Shoreland Drive Casino This large and opulent casino was built by Charles Gates, father of Microdeck´s current CEO, Brian W. Gates, III. It has an excellent restaurant.]]></description>
+				<description><![CDATA[Casino This large and opulent casino was built by Charles Gates, father of Microdeck´s current CEO, Brian W. Gates, III. It has an excellent restaurant.]]></description>
 				<Point>
 					<coordinates>-122.2146,47.60506,0.0</coordinates>
 				</Point>
@@ -1789,13 +1789,13 @@
 						<value>Bar</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>150th Avenue NE & 51st Street NE</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[150th Avenue NE & 51st Street NE Bar and Body Shop This scummy little bar is a front for an even scummier body shop run by Carl Phang. Phang supposedly graduated from a top-notch university in China. The bodies of those who have died under his care are probably dumped into Lake Sammamish, if not chopped up and sold to the black market. The body shop has been busted many times, but each time, the doctor manages to clear his name and reopen the shop as though nothing had happened.]]></description>
+				<description><![CDATA[Bar and Body Shop This scummy little bar is a front for an even scummier body shop run by Carl Phang. Phang supposedly graduated from a top-notch university in China. The bodies of those who have died under his care are probably dumped into Lake Sammamish, if not chopped up and sold to the black market. The body shop has been busted many times, but each time, the doctor manages to clear his name and reopen the shop as though nothing had happened.]]></description>
 				<Point>
 					<coordinates>-122.1412,47.65472,0.0</coordinates>
 				</Point>
@@ -1808,13 +1808,13 @@
 						<value>Hotel</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>6125 Motor Avenue SW</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[6125 Motor Avenue SW Cheap Hotel (8 floors) This no-frills cubicle hotel, like most others of the Comfy Cubicle hotel chian, offers reasonable value for tourists on a tight budget.]]></description>
+				<description><![CDATA[Cheap Hotel (8 floors) This no-frills cubicle hotel, like most others of the Comfy Cubicle hotel chian, offers reasonable value for tourists on a tight budget.]]></description>
 				<Point>
 					<coordinates>-122.51925,47.17141,0.0</coordinates>
 				</Point>
@@ -1827,13 +1827,13 @@
 						<value>Hotel</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>South 13th Street & Broadway Plaza</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[South 13th Street & Broadway Plaza Luxury Hotel (15 floors) More than 300 Metahumans fled to this turn-of-the-century hotel to hide from the flames of the Night of Rage. They were protected from certain death by the hotel´s predominantly Human staff, who literally barricaded the entrances of the hotel against terrorist intruders. This moment in the hotel´s history is proudly remembered with a plaque and a small museum in the lobby. The plush decor and affordable prices make the Sheraton Tacoma a favorite of many visitors.]]></description>
+				<description><![CDATA[Luxury Hotel (15 floors) More than 300 Metahumans fled to this turn-of-the-century hotel to hide from the flames of the Night of Rage. They were protected from certain death by the hotel´s predominantly Human staff, who literally barricaded the entrances of the hotel against terrorist intruders. This moment in the hotel´s history is proudly remembered with a plaque and a small museum in the lobby. The plush decor and affordable prices make the Sheraton Tacoma a favorite of many visitors.]]></description>
 				<Point>
 					<coordinates>-122.43973,47.25092,0.0</coordinates>
 				</Point>
@@ -1846,13 +1846,13 @@
 						<value>Hotel</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>East 26th Street & East Street</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[East 26th Street & East Street Luxury Hotel (8 floors) The Tacoma Dome is one of the best hotels in the district. its rooms are luxurious, its main restaurant superb, the large solarium is a wonderful place to relax and the location offers easy access to the district´s public transportation.]]></description>
+				<description><![CDATA[Luxury Hotel (8 floors) The Tacoma Dome is one of the best hotels in the district. its rooms are luxurious, its main restaurant superb, the large solarium is a wonderful place to relax and the location offers easy access to the district´s public transportation.]]></description>
 				<Point>
 					<coordinates>-122.42876,47.23615000000001,0.0</coordinates>
 				</Point>
