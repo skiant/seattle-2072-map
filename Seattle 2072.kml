@@ -1067,13 +1067,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>South Main Street & 5th Avenue South</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[South Main Street & 5th Avenue South Mid-Size Restaurant (Chinese) This modest, family-style restaurant specializes in Chinese cuisine, but the non-adventurous will flnd American-style dishes, too. Especially recommended are the soy-chicken in black bean sauce and soy-octopus tentacles.]]></description>
+				<description><![CDATA[Mid-Size Restaurant (Chinese) This modest, family-style restaurant specializes in Chinese cuisine, but the non-adventurous will flnd American-style dishes, too. Especially recommended are the soy-chicken in black bean sauce and soy-octopus tentacles.]]></description>
 				<Point>
 					<coordinates>-122.32702999999998,47.59962,0.0</coordinates>
 				</Point>
@@ -1086,13 +1086,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Harrison Street & Dexter Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Harrison Street & Dexter Avenue Mid-Size Restaurant (Elven & Seafood) This first-class Elven restaurant may not have the best view In Seattle, but its food certainly deserves a try. Perhaps the first Elven seafood place in Seattle, the menu is a mix of seafood and vegetarian, with a house specialty of Dunganess crab on a bed of seasoned seaweed. Prices are expensive.]]></description>
+				<description><![CDATA[Mid-Size Restaurant (Elven & Seafood) This first-class Elven restaurant may not have the best view In Seattle, but its food certainly deserves a try. Perhaps the first Elven seafood place in Seattle, the menu is a mix of seafood and vegetarian, with a house specialty of Dunganess crab on a bed of seasoned seaweed. Prices are expensive.]]></description>
 				<Point>
 					<coordinates>-122.34202999999998,47.62162,0.0</coordinates>
 				</Point>
@@ -1105,13 +1105,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Broad Street & Elliott Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Broad Street & Elliott Avenue Mid-Size Restaurant (20th Century Country Cuisine) Knutson´s Country Home serves authentic 20th century country cuisine, using mostly natural ingredients. The decor is straight out of a museum, with authentic, red checkered cotton tablecloths, blue and white china, and milk served in white ceramic pitchers. Only the noisy ventilation system spoils the atmosphere of this first-class restaurant.]]></description>
+				<description><![CDATA[Mid-Size Restaurant (20th Century Country Cuisine) Knutson´s Country Home serves authentic 20th century country cuisine, using mostly natural ingredients. The decor is straight out of a museum, with authentic, red checkered cotton tablecloths, blue and white china, and milk served in white ceramic pitchers. Only the noisy ventilation system spoils the atmosphere of this first-class restaurant.]]></description>
 				<Point>
 					<coordinates>-122.35383,47.61552,0.0</coordinates>
 				</Point>
@@ -1124,13 +1124,13 @@
 						<value>Fast Food</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>5th Avenue West & Elliott Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[5th Avenue West & Elliott Avenue Small Fast Food Restaurant (Oriental Soy) This small, family-style restaurant´s all-soy menu offers dishes from all over the Orient. Though the food is good the service is painfully slow.]]></description>
+				<description><![CDATA[Small Fast Food Restaurant (Oriental Soy) This small, family-style restaurant´s all-soy menu offers dishes from all over the Orient. Though the food is good the service is painfully slow.]]></description>
 				<Point>
 					<coordinates>-122.36383000000001,47.6233,0.0</coordinates>
 				</Point>
@@ -1143,13 +1143,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Cherry Street & 8th Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Cherry Street & 8th Avenue Mid-Size Restaurant (Japanese & Chinese) The Japanese and Chinese food served here is excellent and moderately priced.]]></description>
+				<description><![CDATA[Mid-Size Restaurant (Japanese & Chinese) The Japanese and Chinese food served here is excellent and moderately priced.]]></description>
 				<Point>
 					<coordinates>-122.32620000000001,47.60568,0.0</coordinates>
 				</Point>
@@ -1162,13 +1162,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Virginia Street & 8th Avenue</value>
 					</Data>
 					<Data name='Bias'>
-						<value></value>
+						<value>Bias against Orks and Trolls</value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Virginia Street & 8th Avenue Mid-Size Restaurant (Seafood) Bias against Orks and Trolls This ´hovel´ is actually an attractive, famity-style restaurant in the lobby of the Misner Aquaculture Building. What makes unique is the huge aquarium extending from the lobby of the building to the center of the dining area. The aquarium is as mesmerizing as the excellent seafood served here.]]></description>
+				<description><![CDATA[Mid-Size Restaurant (Seafood) This ´hovel´ is actually an attractive, famity-style restaurant in the lobby of the Misner Aquaculture Building. What makes unique is the huge aquarium extending from the lobby of the building to the center of the dining area. The aquarium is as mesmerizing as the excellent seafood served here.]]></description>
 				<Point>
 					<coordinates>-122.33633000000002,47.61575,0.0</coordinates>
 				</Point>
@@ -1181,13 +1181,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Alaskan Way & Pier 64</value>
 					</Data>
 					<Data name='Bias'>
-						<value></value>
+						<value>Bias against Orks and Trolls</value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Alaskan Way & Pier 64 Large Restaurant (Atzlan Cuisine) Bias against Orks and Trolls Prices are low for a flrst-class restaurant, and the Atzlan cuisine is very good at Maximilion´s. The selection of soy and natural food dishes is impressive.]]></description>
+				<description><![CDATA[Large Restaurant (Atzlan Cuisine) Prices are low for a flrst-class restaurant, and the Atzlan cuisine is very good at Maximilion´s. The selection of soy and natural food dishes is impressive.]]></description>
 				<Point>
 					<coordinates>-122.34143,47.60712,0.0</coordinates>
 				</Point>
@@ -1200,13 +1200,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Pier 63</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Pier 63 Mid-Size Restaurant and Bar Miner´s Landing is a good place to learn a bit about Seattle´s past. Upon entering, guests are seated inside a converted wooden warehouse decorated with mementos of the city´s history. Throughout the dinner, a troupe of actors in period costume perform humorous skits that highlight Seattle´s earliest days. The food is authentic to that time. All In all, this family-style place is fun to visit.]]></description>
+				<description><![CDATA[Mid-Size Restaurant and Bar Miner´s Landing is a good place to learn a bit about Seattle´s past. Upon entering, guests are seated inside a converted wooden warehouse decorated with mementos of the city´s history. Throughout the dinner, a troupe of actors in period costume perform humorous skits that highlight Seattle´s earliest days. The food is authentic to that time. All In all, this family-style place is fun to visit.]]></description>
 				<Point>
 					<coordinates>-122.34080999999999,47.60621,0.0</coordinates>
 				</Point>
@@ -1219,13 +1219,13 @@
 						<value>Fast Food</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Cedar Street & Western Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Cedar Street & Western Avenue Small Fast Food Restaurant and Bar (Soy) This is perhaps the seediest, most disreputable looking bar and restaurant that actually serves good food. The specialty is a delectable soy pizza.]]></description>
+				<description><![CDATA[Small Fast Food Restaurant and Bar (Soy) This is perhaps the seediest, most disreputable looking bar and restaurant that actually serves good food. The specialty is a delectable soy pizza.]]></description>
 				<Point>
 					<coordinates>-122.35112999999998,47.61512,0.0</coordinates>
 				</Point>
@@ -1238,13 +1238,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>South Dearborn Street & Maynard Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[South Dearborn Street & Maynard Avenue Mid-Size Restaurant (Mongolian & Tibetan Soy) The menu at Nyen Lang is a collection of mongoilan and Tibetan soy dishes. The uninitiated are sometimes disappointed by the exotic Tibetan cuisine, for its base ingredient of half-curdled goat´s milk is definitely an acquired taste. The flrst-class restaurant also features a magic show by the owner and his assistants, in which the feirce figures of a Tibetan mandala (a Buddhist representation of heaven) come to life. You may not care for the food, but the show is one-of-a-kind.]]></description>
+				<description><![CDATA[Mid-Size Restaurant (Mongolian & Tibetan Soy) The menu at Nyen Lang is a collection of mongoilan and Tibetan soy dishes. The uninitiated are sometimes disappointed by the exotic Tibetan cuisine, for its base ingredient of half-curdled goat´s milk is definitely an acquired taste. The flrst-class restaurant also features a magic show by the owner and his assistants, in which the feirce figures of a Tibetan mandala (a Buddhist representation of heaven) come to life. You may not care for the food, but the show is one-of-a-kind.]]></description>
 				<Point>
 					<coordinates>-122.32485,47.5956,0.0</coordinates>
 				</Point>
@@ -1257,13 +1257,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>4th Avenue South & South Main Street</value>
 					</Data>
 					<Data name='Bias'>
-						<value></value>
+						<value>Bias against Trolls</value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[4th Avenue South & South Main Street Mid-Size Restaurant (Chinese) Bias against Trolls Though the interior of this family-style restaurant is a jumble of Eastern and Western styles, the Chinese food served here is among the best in the city. The one drawback is a poor ventilation system.]]></description>
+				<description><![CDATA[Mid-Size Restaurant (Chinese) Though the interior of this family-style restaurant is a jumble of Eastern and Western styles, the Chinese food served here is among the best in the city. The one drawback is a poor ventilation system.]]></description>
 				<Point>
 					<coordinates>-122.32873,47.60015,0.0</coordinates>
 				</Point>
@@ -1276,13 +1276,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>1st Avenue & Union Street</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[1st Avenue & Union Street Mid-Size Restaurant and Bar (French) One of the oldest and most popular first-class restaurants in Seattle, The Other Place has been in business for more than a century. The menu is heavy on French meat and poultry dishes (real and soy versions), but also includes many American and Salish dishes. Prices are high, but the Rosellini tradition of offering an a la carte menu of dishes in three price brackets allows even those on a budget to dine at this Seattle landmark.]]></description>
+				<description><![CDATA[Mid-Size Restaurant and Bar (French) One of the oldest and most popular first-class restaurants in Seattle, The Other Place has been in business for more than a century. The menu is heavy on French meat and poultry dishes (real and soy versions), but also includes many American and Salish dishes. Prices are high, but the Rosellini tradition of offering an a la carte menu of dishes in three price brackets allows even those on a budget to dine at this Seattle landmark.]]></description>
 				<Point>
 					<coordinates>-122.33950999999999,47.60789,0.0</coordinates>
 				</Point>
@@ -1295,13 +1295,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Pine Street & Western Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Pine Street & Western Avenue Small Fast Food Restaurant and Bar (Sausages & Pastries) The Pink Door isn´t really a restaurant, but rather a large no-frills bar that happens to be next to a bakery. Meat pies, gyoza, and sausages are sold here, as well as chocolate eclairs and cakes. Beware of the water.]]></description>
+				<description><![CDATA[Small Fast Food Restaurant and Bar (Sausages & Pastries) The Pink Door isn´t really a restaurant, but rather a large no-frills bar that happens to be next to a bakery. Meat pies, gyoza, and sausages are sold here, as well as chocolate eclairs and cakes. Beware of the water.]]></description>
 				<Point>
 					<coordinates>-122.3417,47.6092,0.0</coordinates>
 				</Point>
@@ -1314,13 +1314,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Bell Street & Elliott Street</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Bell Street & Elliott Street Large Restaurant (Pueblo Cuisine) This luxury restaurant offers cooking by some of the best Pueblo chefs outside the Pueblo nation. Hot and spicy hominy-pork stew in chill sauce is their specialty.]]></description>
+				<description><![CDATA[Large Restaurant (Pueblo Cuisine) This luxury restaurant offers cooking by some of the best Pueblo chefs outside the Pueblo nation. Hot and spicy hominy-pork stew in chill sauce is their specialty.]]></description>
 				<Point>
 					<coordinates>-122.34813000000001,47.61232,0.0</coordinates>
 				</Point>
@@ -1333,13 +1333,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Battery Street & 4th Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Battery Street & 4th Avenue Mid-Size Restaurant and Bar (Sioux, Pueblo & Atzlan) Reno´s serves some of the finest Sioux, Pueblo, and Atzlan dishes for the money. A former combat biker owns the family-style restaurant.]]></description>
+				<description><![CDATA[Mid-Size Restaurant and Bar (Sioux, Pueblo & Atzlan) Reno´s serves some of the finest Sioux, Pueblo, and Atzlan dishes for the money. A former combat biker owns the family-style restaurant.]]></description>
 				<Point>
 					<coordinates>-122.34533800000001,47.61632000000001,0.0</coordinates>
 				</Point>
@@ -1352,13 +1352,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>South Weller Street & 6th Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[South Weller Street & 6th Avenue South Mid-Size Restaurant (Chinese Soy) When the craving for cheap and quick Chinese soy food strikes, a visit to this no-frills restaurant is a must. Not only is the food good and healthy, It is also served almost seconds after you order. The restaurant´s interior is dull, however, and often inundated by odors from a nearby plastics factory.]]></description>
+				<description><![CDATA[South Mid-Size Restaurant (Chinese Soy) When the craving for cheap and quick Chinese soy food strikes, a visit to this no-frills restaurant is a must. Not only is the food good and healthy, It is also served almost seconds after you order. The restaurant´s interior is dull, however, and often inundated by odors from a nearby plastics factory.]]></description>
 				<Point>
 					<coordinates>-122.32613000000002,47.59732,0.0</coordinates>
 				</Point>
@@ -1371,13 +1371,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>University Street & Terry Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[University Street & Terry Avenue Mid-Size Restaurant and Bar (American) THE Sports Bar is considered the best of its type in Seattle. The family-style restaurant is divided into two rooms. each catering to a different sport. Both rooms have the most advanced trideo systems and cable hook-ups. The food is all-American. with a curious touch of Native American.]]></description>
+				<description><![CDATA[Mid-Size Restaurant and Bar (American) THE Sports Bar is considered the best of its type in Seattle. The family-style restaurant is divided into two rooms. each catering to a different sport. Both rooms have the most advanced trideo systems and cable hook-ups. The food is all-American. with a curious touch of Native American.]]></description>
 				<Point>
 					<coordinates>-122.32776,47.61132,0.0</coordinates>
 				</Point>
@@ -1390,13 +1390,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Marion Street & 4th Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Marion Street & 4th Avenue Mid-Size Restaurant and Bar (Japanese) The owners of Takuri´s have an arrangement with some of the best restaurants in Tokyo. The Tokyo restaurants send their chefs to Seattle for a ´working Vacation´ at Takuri´s, whose owners provide the chefs with use of a large, luxurious apartment on Lake Washington during their stay. Reservations are a must.]]></description>
+				<description><![CDATA[Mid-Size Restaurant and Bar (Japanese) The owners of Takuri´s have an arrangement with some of the best restaurants in Tokyo. The Tokyo restaurants send their chefs to Seattle for a ´working Vacation´ at Takuri´s, whose owners provide the chefs with use of a large, luxurious apartment on Lake Washington during their stay. Reservations are a must.]]></description>
 				<Point>
 					<coordinates>-122.33178,47.60535,0.0</coordinates>
 				</Point>
@@ -1409,13 +1409,13 @@
 						<value>Fast Food</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Denny Way & 5th Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Denny Way & 5th Avenue North Small Fast Food Restaurant (Various Soy) This little no-frills restaurant sits in the shadow of the Space Needle and serves a delightful combination of Salish, Elven, Ork, and Canadian-American soy dishes. It is well worth the wait for a table.]]></description>
+				<description><![CDATA[North Small Fast Food Restaurant (Various Soy) This little no-frills restaurant sits in the shadow of the Space Needle and serves a delightful combination of Salish, Elven, Ork, and Canadian-American soy dishes. It is well worth the wait for a table.]]></description>
 				<Point>
 					<coordinates>-122.34726,47.61872,0.0</coordinates>
 				</Point>
@@ -1428,13 +1428,13 @@
 						<value>Restaurant</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>Pier 60</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[Pier 60 Large Restaurant (Gourmet Soy) The view from this downtown family-style restaurant makes just looking out the windows worth the price of a meal. One of the bigger restaurants in the fast-food chain, it offers many extra that some smaller ones do not. In addition to its ´Gourmet Soy´ menu, the Pier 60 location serves several natural food dishes, including apple pie with cinnamon sauce and a great cup of espresso.]]></description>
+				<description><![CDATA[Large Restaurant (Gourmet Soy) The view from this downtown family-style restaurant makes just looking out the windows worth the price of a meal. One of the bigger restaurants in the fast-food chain, it offers many extra that some smaller ones do not. In addition to its ´Gourmet Soy´ menu, the Pier 60 location serves several natural food dishes, including apple pie with cinnamon sauce and a great cup of espresso.]]></description>
 				<Point>
 					<coordinates>-122.33978000000002,47.60511,0.0</coordinates>
 				</Point>
@@ -1447,13 +1447,13 @@
 						<value>Night Club</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>East Mercer Street & 12th Avenue</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[East Mercer Street & 12th Avenue Night Club The Alabaster Maiden is named after one of the city´s first magicians, Gabriella Dematto. According to local legend, she overstepped her abilities while trying to escape from a go-gang and inadvertently became permanently petrified as the alabaster statue that now stands at the entrance into the club. The place is a favorite of the city´s younger mages and shamans.]]></description>
+				<description><![CDATA[Night Club The Alabaster Maiden is named after one of the city´s first magicians, Gabriella Dematto. According to local legend, she overstepped her abilities while trying to escape from a go-gang and inadvertently became permanently petrified as the alabaster statue that now stands at the entrance into the club. The place is a favorite of the city´s younger mages and shamans.]]></description>
 				<Point>
 					<coordinates>-122.31653,47.62452,0.0</coordinates>
 				</Point>
@@ -1466,13 +1466,13 @@
 						<value>Night Club</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>5th Avenue & Yesler Way</value>
 					</Data>
 					<Data name='Bias'>
-						<value></value>
+						<value>Bias against ugly people</value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[5th Avenue & Yesler Way Night Club Bias against ugly people Club Penumbra is one of the oldest and most respected in the city. Neither Penumbra´s moon surface floor and starry walls. nor its state-of-the-art trideo and laser effects, have changed for 30 years, much to the satisfaction of the club´s regulars.]]></description>
+				<description><![CDATA[Night Club Club Penumbra is one of the oldest and most respected in the city. Neither Penumbra´s moon surface floor and starry walls. nor its state-of-the-art trideo and laser effects, have changed for 30 years, much to the satisfaction of the club´s regulars.]]></description>
 				<Point>
 					<coordinates>-122.32803,47.60132,0.0</coordinates>
 				</Point>
@@ -1485,13 +1485,13 @@
 						<value>Night Club</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>5th Avenue & Madison Street</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[5th Avenue & Madison Street Night Club Designed to resemble the poet Dante´s vision of Hell, this club is in a class by itself. Nine huge glass dance floors pulsate with energy while four ramps spiral downward, eventually ending to the bottom level, a private room marked ´Hell´.]]></description>
+				<description><![CDATA[Night Club Designed to resemble the poet Dante´s vision of Hell, this club is in a class by itself. Nine huge glass dance floors pulsate with energy while four ramps spiral downward, eventually ending to the bottom level, a private room marked ´Hell´.]]></description>
 				<Point>
 					<coordinates>-122.33249999999998,47.60672,0.0</coordinates>
 				</Point>
@@ -1504,13 +1504,13 @@
 						<value>Night Club</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>4th Avenue North & Denny Way</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[4th Avenue North & Denny Way Small Night Club and Fast Food Restaurant The interior of this small, members-only nightclub near the Space Needle resembles a jazz-joint of the 1930´s.]]></description>
+				<description><![CDATA[Small Night Club and Fast Food Restaurant The interior of this small, members-only nightclub near the Space Needle resembles a jazz-joint of the 1930´s.]]></description>
 				<Point>
 					<coordinates>-122.34884,47.61872,0.0</coordinates>
 				</Point>
@@ -1523,13 +1523,13 @@
 						<value>Night Club</value>
 					</Data>
 					<Data name='Address'>
-						<value></value>
+						<value>University Way & 52nd Street</value>
 					</Data>
 					<Data name='Bias'>
 						<value></value>
 					</Data>
 				</ExtendedData>
-				<description><![CDATA[University Way & 52nd Street Night Club Smoke and flash are what first come to mind when people think of this club, but the music here is often first-rate. This is the place for new young talent to come and perform, hoping that a record producer might be in the crowd. It´s a favorite hangout for the city´s young and magically talented.]]></description>
+				<description><![CDATA[Night Club Smoke and flash are what first come to mind when people think of this club, but the music here is often first-rate. This is the place for new young talent to come and perform, hoping that a record producer might be in the crowd. It´s a favorite hangout for the city´s young and magically talented.]]></description>
 				<Point>
 					<coordinates>-122.31273,47.66622,0.0</coordinates>
 				</Point>
